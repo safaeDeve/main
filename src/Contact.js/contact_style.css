@@ -1,0 +1,120 @@
+#div_prn{
+    display: flex;
+    border: 1px solid rgb(111, 109, 109);
+    width: 50%;
+    height: 600px;
+    margin-left: 300px;
+    margin-top: 30px;
+    background-color: #26476c;
+    border-radius: 20px;
+}
+#div1{
+    padding-left: 20px;
+    border-right:2px solid white;
+    padding-right: 15px;
+}
+#div2{
+    padding-top: 80px;
+    padding-left: 30px;
+}
+.inpts{
+    width: 250px;
+    margin-top: 20px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.815);
+    margin-bottom: 10px;
+}
+#title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    display: flex;
+    padding-left: 10px;
+}
+#icone{
+    padding-top: 35px;
+    padding-right: 10px;
+    
+    
+}
+.btnj{
+    width: 50px;
+    color: white;
+    font-size: 20px;
+    height: 40px;
+    background-color: #26476c;
+    border-radius: 50px;
+    
+}
+.btnj:hover{
+    background-color: rgba(255, 255, 255, 0.815);
+    color: black;
+     
+}
+#btnAff{
+    width: 150px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: #26476c;
+    color: white;
+}
+#btnAff:hover{
+    background-color: rgba(255, 255, 255, 0.815);
+    color: black;
+}
+#btnSort{
+    width: 150px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: #26476c;
+    color: white;
+    margin-left: 5px;
+}
+#btnSort:hover{
+    background-color: rgba(255, 255, 255, 0.815);
+    color: black;
+}
+#btnSearch{
+    width: 60px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: #26476c;
+    color: white;
+    text-align: center;
+    padding-left: 20px;
+    margin-left: 10px;
+}
+#btnSearch:hover{
+    background-color: rgba(255, 255, 255, 0.815);
+    color: black;
+}
+#btnD{
+    width: 70px;
+    height: 25px;
+    border-radius: 50px;
+    background-color: #26476c;
+    color: white;
+    text-align: center; 
+    margin-left: 10px;
+}
+#btnD:hover{
+    background-color: rgba(255, 255, 255, 0.815);
+    color: black;
+}
+#aff{
+    color:white ;
+    font-size: 15px;
+    margin-top: 15px;
+    padding-top: 10px;
+    
+}
+.ic{
+    display: flex;
+}
+#cher{
+    color: white;
+    text-decoration: underline;
+}
+#haff{
+    size: 8px;
+}
+
